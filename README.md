@@ -1,5 +1,6 @@
 # About The Site
 This is a website I am creating for my mother to have a nice front end for booking gigs that potential clients can use
+
 Some next steps for this project:
 1. adding pictures
 2. completing the bio
